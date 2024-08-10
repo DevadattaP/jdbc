@@ -1,0 +1,7 @@
+.idea
+.vscode
+out
+*.class
+*.txt
+*.pptx
+*.db
