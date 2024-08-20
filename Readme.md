@@ -59,8 +59,8 @@ Although the Android project is not included, the JDBC functions are designed to
     ```sh
     java SchemaDB
     ```
-[!NOTE]
-The code given is an example of how CRUD utility functions can be used in a `main` method. You can make the code work according to your schema and requirements.
+> [!NOTE]
+> The code given is an example of how CRUD utility functions can be used in a `main` method. You can make the code work according to your schema and requirements.
 
 ## Contributing
 > Feel free to fork the repository and submit pull requests for any enhancements or bug fixes.
